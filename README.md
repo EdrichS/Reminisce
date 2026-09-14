@@ -3,7 +3,7 @@ The code should run as: asks whats the phone number that you wish to read on sin
 
 This code is designed to be fully on Mac. This code is also designed only for individual conversations, so group chats do not work.
 
-Dependencies: pandas
+Dependencies: pandas (optional)
 
 How To Use:
 
