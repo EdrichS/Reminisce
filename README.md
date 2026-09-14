@@ -1,6 +1,6 @@
 How To Use:
 
-1. First access your Messages database on your Mac. This is usually found on the following directory: /Users/*username*/Library/Messages/chat.db
+1. First access your Messages database on your Mac. Open **Finder**, press **Cmd** **+** **Shift** + **G**. Paste the following path: ~/Library/Messages/chat.db
 
 2. Then, in main.py, change the *TARGET_CHAT_IDENTIFIER* to the conversation you want to reminisce.
 
